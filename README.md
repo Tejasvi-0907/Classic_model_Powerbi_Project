@@ -1,4 +1,4 @@
-Classic Models Sales Dashboard – Power BI Project
+# Classic Models Sales Dashboard – Power BI Project
 Objective:
 The objective of this Power BI dashboard is to analyze the sales performance of Classic Models, a company dealing in scale model vehicles. The dashboard provides a comprehensive overview of sales data from the years 2003 to 2005. It helps stakeholders identify top-selling products, evaluate product line performance, analyze sales trends over time, and understand customer distribution across countries.
 
