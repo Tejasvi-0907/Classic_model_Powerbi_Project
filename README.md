@@ -5,25 +5,25 @@ The objective of this Power BI dashboard is to analyze the sales performance of 
 Dashboard Overview:
 This interactive dashboard offers a consolidated view of business performance through various metrics and visualizations. It enables users to explore sales and profit figures, track product performance, and perform segmented analysis using slicers for year, city, employee name, and product line.
 Key Features and Business Questions Addressed: 
-Overall Sales and Profitability
+Overall Sales and Profitability-
 Displays total sales amount, profit margin percentage, and total profit generated during the three-year period.
 
-Top-Selling Products
+Top-Selling Products-
 Identifies the highest revenue-generating products, allowing the business to understand which items are driving the most value.
 
-Sales Trends Over Time
+Sales Trends Over Time-
 Illustrates the total quantity ordered by year, helping to assess growth or decline in customer demand over time.
 
-Performance by Product Line
+Performance by Product Line-
 Breaks down both sales and quantity ordered by product line, which aids in identifying which categories are performing best and where improvement is needed.
 
-Geographical Distribution of Customers
+Geographical Distribution of Customers-
 Uses a map visualization to show the number of customers by country, useful for regional sales strategies.
 
-Performance Benchmarking for 2004
+Performance Benchmarking for 2004-
 Provides a monthly sales comparison against a target goal, enabling performance tracking and target achievement analysis.
 
-Top and Bottom Performing Products
+Top and Bottom Performing Products-
 Highlights both high-performing and underperforming products, useful for inventory and marketing decision-making.
 
 Key Insights:
